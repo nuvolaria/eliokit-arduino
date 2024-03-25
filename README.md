@@ -9,15 +9,11 @@ The Eliokit library is a collection of functions and classes that simplify the d
 
 ## Installation
 
-To install the Eliokit library, follow the installation guide available at the following link: https://eliokit.it/docs/ELIO-Arduino-IDE.pdf
+To install the Eliokit library, follow the installation guide available at the following link: https://elioiot.com/docs/ELIO-Arduino-IDE.pdf
 
 ## Documentation
 
-For more information on using the Eliokit library, consult the general documentation available at the following link: https://eliokit.it/guide/
-
-## Support
-
-For any questions or problems related to using the Eliokit library, please visit our support forum on Discord at the following link: https://discord.gg/pspP3XSbkn
+For more information on using the Eliokit library, consult the general documentation available at the following link: https://elioiot.com/guide/
 
 ## Example Code
 
